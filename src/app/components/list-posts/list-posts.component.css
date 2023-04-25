@@ -1,0 +1,27 @@
+div {
+    background-color: #0a75bc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 24px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+  
+a:hover {
+    color: #FCE029;
+}
+
+p {
+    margin: 0;
+    font-size: 14px;
+    color: #ffffff;
+}
+  
